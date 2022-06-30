@@ -1,8 +1,8 @@
 # 5437_G1_INGSWI
 NOMBRES GRUPO 1:
--ALMEIDA NICOLAS
--ACOSTA CAMILO
--BENAVIDES LUIS
--LOACHAMIN ESTEBAN
--ORTIZ RAFAEL
--JIMENEZ DYLAN
+-Almeida Nicolas
+-Acosta Camilo
+-Benavides Luis
+-Loachamin Esteban
+-Ortiz Rafael
+-Jimenez Dylan
